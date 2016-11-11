@@ -1,0 +1,10 @@
+Documentation
+
+Source data (ie, shakespeare works)
+https://www.gutenberg.org/ebooks/2264 #Macbeth
+
+Actual coding ideas (searching through and parsing the file)
+http://stackoverflow.com/questions/4785244/search-a-text-file-and-print-related-lines-in-python
+
+Display/UI (maybe a histogram?)
+none yet!
