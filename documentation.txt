@@ -9,4 +9,5 @@ http://stackoverflow.com/questions/4785244/search-a-text-file-and-print-related-
 
 Display/UI (maybe a histogram?)
 http://stackoverflow.com/questions/16892072/histogram-in-pylab-from-a-dictionary
+http://stackoverflow.com/questions/25158561/ipython-pylab-print-histogram-from-dictionary
 **maybe parse other texts as well, and by category (tragedy / comedy - what if "blood" comes up quite a lot in comedy!)
