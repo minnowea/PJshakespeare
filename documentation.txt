@@ -6,5 +6,7 @@ https://www.gutenberg.org/ebooks/2264 #Macbeth
 Actual coding ideas (searching through and parsing the file)
 http://stackoverflow.com/questions/4785244/search-a-text-file-and-print-related-lines-in-python
 
+
 Display/UI (maybe a histogram?)
-none yet!
+http://stackoverflow.com/questions/16892072/histogram-in-pylab-from-a-dictionary
+**maybe parse other texts as well, and by category (tragedy / comedy - what if "blood" comes up quite a lot in comedy!)
